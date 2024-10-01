@@ -1,0 +1,6 @@
+[submodule "Proyecto_DesarrolloWeb"]
+	path = Proyecto_DesarrolloWeb
+	url = https://github.com/juanfferb/Proyecto_DesarrolloWeb.git
+[submodule "angularTransmilenio"]
+	path = angularTransmilenio
+	url = https://github.com/saraagutierrez/angularTransmilenio.git
